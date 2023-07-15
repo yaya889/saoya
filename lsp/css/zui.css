@@ -1085,7 +1085,7 @@ hr{
 			color: #fff;
 			text-align: right;
 			font-size: 12px;
-			background: url(./images/video-mask.png) 0 0 repeat-x;
+			background: url(../images/video-mask.png) 0 0 repeat-x;
 		}
         .thumbnail-group > li > .thumbnail .video-number{
 			position: absolute;
